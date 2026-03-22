@@ -5,6 +5,7 @@ html {
 
 body {
   width: 600px;
+  height: 710px;
   margin: 0 auto;
   background-color: darkgray;
 }
@@ -65,13 +66,13 @@ body {
 
 .main-text {
   grid-column: 1 / 5;
-  grid-row: 3 / 3;
+  grid-row: 3 / 5;
   border: 2px solid gray;
 }
 
 .footer {
-  width: 100%;
-  height: auto;
+  width: 597px;
+  height: 47px;
   display: grid;
   border: 2px solid gray;
   grid-template-columns: 1fr, 1fr, 1fr, 1fr, 1fr;
