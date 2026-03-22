@@ -92,12 +92,7 @@ body {
   grid-template-columns: 1fr, 1fr;
 }
 
-.footer div img {
-  height: 40px;
-  margin: auto;
-}
-
-.footer a img {
+.footer * img {
   height: 40px;
   margin: auto;
 }
